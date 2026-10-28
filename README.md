@@ -42,7 +42,7 @@ python skills/aidea-ipvideo-me/scripts/media_qa.py your-video.mp4 --compare-audi
 
 ## 版本与权利
 
-1.0.0 是从 aidea-ipvideo v2.4 工作流派生的独立品牌包，不覆盖原项目。默认标签为“觅跃科技”，195px 右下圆头像，帽侧 Logo；小圆中的英文仍可能不可读，独立中文标签是主要品牌识别。
+当前版本：1.0.0。面向觅跃科技的独立品牌视频工作流。默认标签为“觅跃科技”，195px 右下圆头像，帽侧 Logo；小圆中的英文仍可能不可读，独立中文标签是主要品牌识别。
 
 见 [资源来源和权利边界](ASSET_PROVENANCE.md) 与 [许可说明](LICENSE)。公开存放不等于授予品牌/商标或第三方内容的通用使用权。
 
