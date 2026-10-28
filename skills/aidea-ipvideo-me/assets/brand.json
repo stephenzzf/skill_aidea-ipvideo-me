@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "brand_name": "觅跃科技",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "logical_width": 720,
+    "logical_height": 1280,
+    "scale": 1.5
+  },
+  "palette": {
+    "paper": [
+      247,
+      245,
+      235
+    ],
+    "ink": [
+      28,
+      50,
+      43
+    ],
+    "teal": [
+      27,
+      82,
+      65
+    ],
+    "gold": [
+      164,
+      131,
+      68
+    ],
+    "white": [
+      255,
+      254,
+      248
+    ],
+    "light": [
+      234,
+      237,
+      220
+    ],
+    "line": [
+      210,
+      211,
+      191
+    ]
+  },
+  "avatar": {
+    "path": "avatar.png",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "crop": [
+      180,
+      0,
+      1080,
+      900
+    ],
+    "fit": 0.9,
+    "cx": 625,
+    "cy": 1040,
+    "radius": 65,
+    "border_pixels": 3
+  },
+  "label": {
+    "text": "觅跃科技",
+    "x": 625,
+    "y": 1147,
+    "font_size": 18,
+    "max_width": 130
+  },
+  "caption": {
+    "box": [
+      43,
+      990,
+      548,
+      1140
+    ],
+    "font_size": 28,
+    "max_lines": 2
+  },
+  "voice": {
+    "preferred": "Rami",
+    "availability": "verify_per_run",
+    "preserve_on_visual_edit": true
+  }
+}

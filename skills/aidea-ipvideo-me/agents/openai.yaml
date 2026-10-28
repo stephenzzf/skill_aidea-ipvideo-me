@@ -1,0 +1,4 @@
+interface:
+  display_name: "觅跃科技 IP 视频"
+  short_description: "保持既有信息卡与人物品牌规范，制作和局部优化来源可核验的中文竖屏视频"
+  default_prompt: "使用 $aidea-ipvideo-me 核验素材并制作一条觅跃科技竖屏解说视频，保持既有版式。"
